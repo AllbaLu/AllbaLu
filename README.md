@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Alba Rodríguez</h1>
 <h3 align="center">A passionate full stack developer </h3>
 
-- 🔭 I’m currently working on [BeautyFitness](https://github.com/AllbaLu/BeautyFitness-proyecto-final)
+- 🔭 I’m currently working on [MS-Psychology](https://github.com/AllbaLu/MS-Psychology)
 
 - 🌱 I’m currently learning **Angular, Java, .Net**
 
-- 🤝 I’m looking for help with **MS-Psychology** Project
+- 🤝 I’m looking for help with [BeautyFitness](https://github.com/AllbaLu/BeautyFitness-proyecto-final)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AllbaLu](https://github.com/AllbaLu)
 
