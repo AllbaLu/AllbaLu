@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Alba Rodríguez</h1>
 <h3 align="center">A passionate full stack developer </h3>
 
-- 🔭 I’m currently working on [MS-Psychology](https://github.com/AllbaLu/MS-Psychology)
+- 🔭 I’m currently working on [Health-Mind | Mente-Sana](https://github.com/AllbaLu/Mente-Sana)
 
 - 🌱 I’m currently learning **Angular, Java, .Net**
 
-- 🤝 I’m looking for help with [BeautyFitness](https://github.com/AllbaLu/BeautyFitness-proyecto-final)
+- 🤝 I’m looking for help with [BeautyFitness](https://github.com/AllbaLu/BeautyFitness)
 
 - 👨‍💻 All of my projects are available at [https://github.com/AllbaLu](https://github.com/AllbaLu)
 
-- 🌱 I'm currently working **JavaScript- react, APIs, Python, SQL**
+- 🌱 I'm currently working **JavaScript- React, APIs, Python, SQL, Tailwind, Flux, Redux, Motion, Azure, Docker**
 
 - 📫 How to reach me **albaluccia@gmail.com**
 
